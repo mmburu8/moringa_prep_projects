@@ -26,6 +26,7 @@ Google Colaboratory Notebook
 
 SUPPORT AND CONTACT DETAILS
 If you run to an issue or bug or you have a problem send me an email at mmburu961@gmail.com. You are free to update my code or change if there is an issue. Two heads are better than one.
-### License
-*{Determine the license under which this application can be used.  See below for more details on licensing.}*
+
+LICENSE
+Apache License 2.0
 Copyright (c) 2021  Martin Mburu
